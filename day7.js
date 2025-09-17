@@ -43,5 +43,5 @@ if(operacao != "sair") {
     }
 
 }else {
-    alert("Ate a proxima!");
+    alert("Até a proxima!");
 }
